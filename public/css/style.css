@@ -1,0 +1,16 @@
+body {
+    background-image: url("../img/Baground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-color: aquamarine; */
+}
+
+* {
+    font-family: Arial;
+}
+
+h1.text-center {
+    color: white;
+    font-size: larger;
+}
